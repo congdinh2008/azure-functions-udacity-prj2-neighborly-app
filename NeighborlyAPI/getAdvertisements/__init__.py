@@ -9,7 +9,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
     try:
         url = os.environ["MyDbConnection"]
         client = pymongo.MongoClient(url)
-        database = client['azure']
+        database = client['neighborlydb']
         collection = database['advertisements']
 
 
