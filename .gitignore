@@ -2,3 +2,13 @@
 .DS_Store
 NeighborlyFrontEnd/venv/
 azure.cfg
+
+.python_packages
+__pycache__
+.vscode/*
+NeighborlyAPI/.vscode/*
+.gitignore
+NeighborlyFrontEnd/.deployment
+NeighborlyFrontEnd/azure-fe/
+NeighborlyFrontEnd/.vscode/*
+.funcignore
