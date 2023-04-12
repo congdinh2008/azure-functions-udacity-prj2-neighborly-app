@@ -12,3 +12,4 @@ NeighborlyFrontEnd/.deployment
 NeighborlyFrontEnd/azure-fe/
 NeighborlyFrontEnd/.vscode/*
 .funcignore
+NeighborlyAPI/azure-be/

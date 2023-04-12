@@ -1,0 +1,7 @@
+resourceGroup="azure-dev-udacity-prj2"
+region="southeastasia"
+functionApp="neighborly-function"
+imageName="neighborly-function"
+imageTag="latest"
+containerRegistry="neighborlycongdinh2023"
+AKSCluster="neighborlycongdinh2023"
