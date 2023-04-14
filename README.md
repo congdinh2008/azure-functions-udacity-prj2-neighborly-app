@@ -242,3 +242,64 @@ RESOURCE_GROUP="<YOUR-RESOURCE-GROUP>"
 # run this command
 az group delete --name $RESOURCE_GROUP
 ```
+
+
+## How to install
+
+### Clone the project
+
+```
+git clone https://github.com/congdinh2008/azure-functions-udacity-prj2-neighborly-app.git
+```
+
+### Install package
+
+Should be create a virtual environment (venv), activate it
+
+```
+$ python3 -m venv azure
+$ source azure/bin/activate
+```
+
+```
+$ pip install -r requirements.txt
+```
+
+Open how_to.ipynb: <a href="https://github.com/congdinh2008/azure-functions-udacity-prj2-neighborly-app/blob/main/how_to.ipynb">NoteBook</a>
+
+Run code follow by markdown
+
+Remember: Delete resource group after complete
+
+## Screenshots
+
+### Create Resource Group
+<img src="./screenshots/resource_group.png">
+
+### Azure Cosmos MongoDB
+
+<img src="./screenshots/cosmosdb_data_ads.png">
+<img src="./screenshots/cosmosdb_data_posts.png">
+
+### Fucntions
+<img src="./screenshots/azure_functions.png">
+<img src="./screenshots/azure_function_test_1.png">
+<img src="./screenshots/azure_function_test_2.png">
+
+### Web UI Image
+<img src="./screenshots/web_front_end_ui_1.png">
+<img src="./screenshots/web_front_end_ui_2.png">
+<img src="./screenshots/web_front_end_ui_3.png">
+
+#### Kubernetes
+<img src="./screenshots/kubernetes_portal.png">
+<img src="./screenshots/kubernetes_node_pool.png">
+<img src="./screenshots/kubernetes_node.png">
+<img src="./screenshots/kubernetes_deploy.png">
+<img src="./screenshots/kubernetes_url_deployed.png">
+
+#### Azure Logic App - A screenshot from your inbox notification.
+<img src="./screenshots/logic_app_mail_inbox.png">
+
+#### Edit Event Hub - A screenshot with the namespace URL.
+<img src="./screenshots/event_hubs_namespace_portal.png">
