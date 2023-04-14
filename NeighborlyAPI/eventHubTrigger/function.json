@@ -6,7 +6,7 @@
       "name": "event",
       "direction": "in",
 	  "eventHubName": "neighborly-evenhub", 
-	  "connection": "Endpoint=sb://neighborly-evenhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=JzPG/MilDDaGvZQ6H3YhQtMvn5uDFFK/k+AEhMSjor0="
+	  "connection": "Endpoint=sb://neighborly-eventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=JT5OG2PfLLoUdG5poZGL35IfR136DQXAD+AEhOGAhDI="
     }
   ]
 }

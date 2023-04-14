@@ -28,4 +28,4 @@ aksCluster="neighborlycongdinh2023"
 
 logicAppName="neighborly-logicapp"
 eventHubName="neighborly-eventhub"
-connectionString="mongodb://neighborly-cosmosdb:aS2p3cJdjsUNXDm0f9DkPYppydiTshBhXrRR9EMZ9GYAhSbUWE0yMeACzvIIDWWhqLXxpblU6SRTACDbqxpGEw==@neighborly-cosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborly-cosmosdb@"
+connectionString="mongodb://neighborly-cosmosdb:PbhlU4NuveT14I1TuEAbQ2QU50UWCSkQwl0b9sxC4KIFJXdddjwE2NN3hJxMNtOMMFLV8BOJ65KPACDb8DAHCg==@neighborly-cosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborly-cosmosdb@"
