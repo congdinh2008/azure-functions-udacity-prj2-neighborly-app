@@ -5,8 +5,8 @@
       "type": "eventGridTrigger",
       "name": "event",
       "direction": "in",
-	  "eventHubName": "neighborly-evenhub", 
-	  "connection": "Endpoint=sb://neighborly-eventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=JT5OG2PfLLoUdG5poZGL35IfR136DQXAD+AEhOGAhDI="
+      "eventHubName": "neighborly-hub", 
+      "connection": "Endpoint=sb://neighborly-eventhub.servicebus.windows.net/;SharedAccessKeyName=neighborly-hub-policy;SharedAccessKey=mPoeaDc40BaZlnCjY5ia+ZKsnO5Ge8ex2+AEhIt9pf0=;EntityPath=neighborly-hub"
     }
   ]
 }

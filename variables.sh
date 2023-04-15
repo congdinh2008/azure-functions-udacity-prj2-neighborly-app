@@ -1,5 +1,5 @@
 resourceGroup="azure-dev-udacity-prj2"
-location="southeastasia"
+location="westus2"
 
 cosmosdbAccountName="neighborly-cosmosdb"
 cosmosdbKind="MongoDB"
@@ -12,7 +12,7 @@ storageAccountName="congdinh2023prj2"
 storageSku="Standard_LRS"
 
 functionName="neighborly-function"
-functionVersion="3"
+functionVersion="4"
 functionOsType="Linux"
 functionRuntime="python"
 
@@ -28,4 +28,4 @@ aksCluster="neighborlycongdinh2023"
 
 logicAppName="neighborly-logicapp"
 eventHubName="neighborly-eventhub"
-connectionString="mongodb://neighborly-cosmosdb:PbhlU4NuveT14I1TuEAbQ2QU50UWCSkQwl0b9sxC4KIFJXdddjwE2NN3hJxMNtOMMFLV8BOJ65KPACDb8DAHCg==@neighborly-cosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborly-cosmosdb@"
+connectionString="mongodb://neighborly-cosmosdb:7ZHd0B7QDvWXKK6WyjsSRh8n7a3A90og3WqdrklKOjb2XPTH1bEQcRKKCgzNLnf3IZDfUi0PHJXjACDbFmj7tA==@neighborly-cosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborly-cosmosdb@"
